@@ -1,0 +1,20 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Streamlit PDF assistant",
+			"type": "shell",
+			"command": "D:\\Internship SlT\\simpleRAG\\.venv\\Scripts\\python.exe",
+			"args": [
+				"-m",
+				"streamlit",
+				"run",
+				"app.py",
+				"--server.headless",
+				"true"
+			],
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}

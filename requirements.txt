@@ -1,0 +1,12 @@
+streamlit>=1.41,<2
+pypdf>=5.1,<7
+langchain>=0.3,<2
+langchain-core>=0.3,<2
+langchain-chroma>=0.2,<2
+langchain-huggingface>=0.1.2,<2
+langchain-google-genai>=4,<5
+python-dotenv>=1,<2
+chromadb>=0.6,<2
+sentence-transformers>=3.3,<6
+nltk>=3.9,<4
+spacy>=3.8,<4
